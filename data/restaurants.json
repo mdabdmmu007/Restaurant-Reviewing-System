@@ -1,0 +1,34 @@
+[
+    {
+        "id": "r1",
+        "name": "Baytana",
+        "address": "Cyberjaya",
+        "cuisine": "Arabic",
+        "website": "https://www.baytana.com",
+        "description": "The food is so tasty"
+    },
+    {
+        "id": "r2",
+        "name": "McDonalds",
+        "address": "Cyberjaya",
+        "cuisine": "Western",
+        "website": "https://www.mcdonalds.com",
+        "description": "The food is good"
+    },
+    {
+        "id": "r3",
+        "name": "Food Queen",
+        "address": "Notun Bazar",
+        "cuisine": "Chinese",
+        "website": "https://www.foodqueen.com",
+        "description": "This restaurant is very good"
+    },
+    {
+        "name": "KFC",
+        "address": "Bangsar",
+        "cuisine": "Fast Food",
+        "website": "https://www.kfc.com",
+        "description": "esfsfsdf",
+        "id": "057054a1-afa0-42f3-976e-dec63fe71893"
+    }
+]
